@@ -1,0 +1,5 @@
+https://learngitbranching.js.org/?locale=ru_RU
+https://programforyou.ru/block-diagram-redactor
+
+https://plugins.jetbrains.com/plugin/7017-plantuml-integration
+https://plantuml.com/ru/activity-diagram-beta
